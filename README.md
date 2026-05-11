@@ -1,1 +1,2 @@
-# Cynthia-first-project
+# 我的第一个项目
+这是我的 GitHub 第一个仓库，用来学习基本操作。
